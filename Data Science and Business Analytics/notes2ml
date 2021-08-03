@@ -1,0 +1,27 @@
+🔰1. Regression and classification are both related to prediction.
+
+🔰2. Regression predicts a value from a continuous set.
+
+🔰3. Classification is when output is not continuous or discrete i.e, output is in different categories such as True/false,1/0,etc 
+
+🔰4. Classification predicts the 'belonging' to the class.
+🔰5. In simpler words,
+---->Regression: the output variable takes continuous values.
+---->Classification: the output variable takes class labels.
+
+🔰6. Classification has two types that are as follows :
+Binary classification and multi class. 
+Classification having two class labels i.e, true/false,pass/fail,yes/no,0/1,etc.
+
+🔰7. Data aggregation is the method of gathering/grouping/collecting the data and expressing it into proper form.
+
+🔰8. To merge 2 features we have hue option in countplot function.  
+import seaborn as sns
+sns.countplot(a , hue = 'b')
+🔰9. The act of representing the  data into graphical or pictorial form so that it become easier for the humans to visualize it is called as data visualization.
+
+🔰10. Data visualizations make big and small data easier for the human brain to understand, and visualization also makes it easier to detect patterns, trends, and outliers in groups of data.
+
+🔰11. Data Visualization also plays an important role  in feature selection we can verify the feature Collinearity by using hue options in seaborn functions like countplot()function.
+
+🔰12. Countplot function in seaborn library helps to generates the charts/graph that show the graph by combining or aggregating two features so that we can properly check which feature is more relevant than other.
