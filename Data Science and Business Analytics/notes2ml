@@ -25,3 +25,9 @@ sns.countplot(a , hue = 'b')
 🔰11. Data Visualization also plays an important role  in feature selection we can verify the feature Collinearity by using hue options in seaborn functions like countplot()function.
 
 🔰12. Countplot function in seaborn library helps to generates the charts/graph that show the graph by combining or aggregating two features so that we can properly check which feature is more relevant than other.
+Parameter is any value passed to the functions to make its working more dynamic in run time.
+🔰13. Parameters helps us or allows us to pass the arguments,instruction into functions. 
+🔰14. Matplotlib module is used for drawing graph in python.
+🔰15. Scatter plot is a function that plots the datapoints in scattered manner and  it is totally dependent on x and y values.
+🔰16. Plot function is used to get a line by joining all data points which are formed using x and y values in the graph.
+🔰17. Shift +tab key is used to see the signature of any function in Jupyter Notebook.
